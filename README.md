@@ -24,7 +24,7 @@ Sistema de Gestión de Almacén (Warehouse Management System) diseñado para el 
 │   └── .env.template    # Plantilla de variables de entorno
 │
 └── /frontend            # Interfaz de Usuario (React)
-
+```
 ## 👥 Equipo
 - [Jairo Flores Avila] - Líder / DBA
 - [Uziel Avalos Padilla] - Backend
